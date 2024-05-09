@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/keolaiseri/Desktop/Work/shapeshiftsurvival/Shape Shift Survival/Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/keolaiseri/Desktop/Work/shapeshiftsurvival/Shape Shift Survival/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/keolaiseri/Desktop/Work/shapeshiftsurvival/Shape Shift Survival/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/Users/keolaiseri/Desktop/Work/shapeshiftsurvival/Shape Shift Survival/Assembly-CSharp.csproj",
+        "packagesPath": "/Users/keolaiseri/.nuget/packages/",
+        "outputPath": "/Users/keolaiseri/Desktop/Work/shapeshiftsurvival/Shape Shift Survival/Temp/obj/Debug/Assembly-CSharp/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/keolaiseri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
